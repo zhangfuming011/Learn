@@ -5,7 +5,9 @@ int main(void)
 {
   int n;
   n = 1;
-  
+  m = 2;
+  int sum = n+ m; 
+  printf("%d",sum);
   printf("Hello World!");
   
   return 0;
